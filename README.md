@@ -8,7 +8,7 @@
 
 4. Pastiin sudah terinstall python terbaru sama pip didalemnya juga ygy.. 
 
-5. Buat 2 file baru namain : requirements.txt isi ini 
+5. Buat 2 file baru namain : requirements.txt . terus isi ini 
 ```
 python-telegram-bot==20.0
 openai==0.26.4
