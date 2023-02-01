@@ -55,6 +55,7 @@ if __name__ == '__main__':
     
 ```
 jangan lupa ganti dulu API_OPENAI dan API_BOT_TELE nya.. 
+
 6. Copas copas aja nih ya
 ```
 python -m venv env
